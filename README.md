@@ -9,6 +9,9 @@
   <a href="mailto:[YOUR-EMAIL@gmail.com]">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
+  <a href="[LINK-TO-YOUR-RESUME-FILE-OR-PDF]">
+    <img src="https://img.shields.io/badge/Resume-333333?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume">
+  </a>
 </div>
 
 <hr />
@@ -61,51 +64,72 @@ I am an IT student specializing in cloud environments, network engineering, and 
 
 <hr />
 
-## 📁 Featured Technical Course Labs
+## 📁 MyComputer Career Course Labs
 
-<blockquote>Click on any program track below to expand and view my entry-level lab submissions and documentation.</blockquote>
+<blockquote>Click on any course track below to expand and view my entry-level lab submissions, screenshots, and documentation.</blockquote>
 
 <details>
-  <summary><b>🐧 Track 1: Linux & Scripting Essentials</b></summary>
+  <summary><b>🌐 Course 1: Networking I</b></summary>
   <br>
   <ul>
     <li>
-      <b><a href="./Linux-Labs/linux_basics.md">Lab: Essential Linux Command Cheat Sheet</a></b><br>
-      A breakdown of the top 10 foundational navigation and management commands run inside a live terminal, complete with terminal output captures.
-    </li>
-    <li>
-      <b><a href="./Linux-Labs/welcome.sh">Script: Automated System Welcome Dashboard</a></b><br>
-      A simple Bash script executing automatically upon boot to cleanly display the active user, current date/time, and system uptime matrix.
+      <b><a href="./Networking-I/network_map.md">Lab: Visual Local Infrastructure Network Map</a></b><br>
+      An architectural layout mapping how local endpoint devices interface with switches, gateways, and internet service entry points.
     </li>
   </ul>
 </details>
 
 <details>
-  <summary><b>🌐 Track 2: Networking & Security (Net+ / Sec+)</b></summary>
+  <summary><b>🛡️ Course 2: Computer and Security Essentials</b></summary>
   <br>
   <ul>
     <li>
-      <b><a href="./Networking-Labs/network_map.md">Lab: Visual Home Infrastructure Network Map</a></b><br>
-      A complete drag-and-drop architectural map detailing how local assets connect via gateways, firewalls, and local Wi-Fi layers.
-    </li>
-    <li>
-      <b><a href="./Security-Labs/security_hardening.md">Lab: Personal Digital Asset Hardening Matrix</a></b><br>
-      Applying compliance rules (MFA deployment, session management checks) to harden personal operational accounts.
+      <b><a href="./Computer-Security-Essentials/workstation_baseline.md">Lab: Corporate Workstation Hardening Checklist</a></b><br>
+      A technical defense baseline audit applied to local hosts, detailing credential configurations and protocol control lists.
     </li>
   </ul>
 </details>
 
 <details>
-  <summary><b>☁️ Track 3: Microsoft Azure (AZ-104 & AI-900)</b></summary>
+  <summary><b>🐧 Course 3: Operating Systems I</b></summary>
   <br>
   <ul>
     <li>
-      <b><a href="./Azure-Labs/azure_vm_lab.md">Lab: Cloud Virtual Machine Configuration Lifecycle</a></b><br>
-      Step-by-step GUI deployment documentation capturing resource group dependencies, security groups, and cloud access routing.
+      <b><a href="./Operating-Systems-I/linux_basics.md">Lab: Essential Linux Navigation Command Guide</a></b><br>
+      A practical directory walkthrough using standard Linux command-line terminal syntax to create, move, and audit files.
     </li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>🔒 Course 4: Security I</b></summary>
+  <br>
+  <ul>
     <li>
-      <b><a href="./Azure-Labs/ai_capabilities.md">Lab: AI-900 Enterprise Prompt Performance Test</a></b><br>
-      Evaluating data summary models and contextual text engineering structures using cloud-hosted OpenAI instances.
+      <b><a href="./Security-I/security_hardening.md">Lab: Identity Access Management & MFA Matrix</a></b><br>
+      Implementing active account security constraints including multi-factor authentication setup and strict device auditing configurations.
+    </li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>🖥️ Course 5: Server I</b></summary>
+  <br>
+  <ul>
+    <li>
+      <b><a href="./Server-I/azure_vm_lab.md">Lab: Enterprise Azure Server GUI Deployment</a></b><br>
+      Step-by-step documentation detailing cloud resource groups, network security groups, and cloud-hosted VM provisioning dependencies.
+    </li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>📡 Course 6: Networking and Security I</b></summary>
+  <br>
+  <ul>
+    <li>
+      <b><a href="./Networking-Security-I/packet_analysis.md">Lab: Wireshark Packet Capture Analysis</a></b><br>
+      A foundational network monitoring exercise filtering protocols, tracking data packet streams, and identifying system anomalies.
     </li>
   </ul>
 </details>
